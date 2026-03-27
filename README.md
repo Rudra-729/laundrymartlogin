@@ -2,6 +2,8 @@
 
 A clean, responsive login page for **LaundryMart** — built with vanilla HTML and CSS.
 
+🔗 **Live Demo:** [rudra-729.github.io/laundrymartlogin](https://rudra-729.github.io/laundrymartlogin/)
+
 ## Preview
 
 Split-screen layout with a branded image on the left and a login form on the right.
@@ -30,8 +32,8 @@ No dependencies or build tools needed.
 2. Open `index.html` in your browser
 
 ```bash
-git clone <your-repo-url>
-cd laundrymart-login
+git clone https://github.com/rudra-729/laundrymartlogin.git
+cd laundrymartlogin
 open index.html
 ```
 
@@ -39,4 +41,3 @@ open index.html
 
 - HTML5
 - CSS3 (Flexbox, gradients, transitions)
-
